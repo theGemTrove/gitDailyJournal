@@ -1,0 +1,2 @@
+# gitDailyJournal
+My Daily Journal
